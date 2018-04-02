@@ -1,4 +1,4 @@
-# SampleApp
+# Transpose App
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.6.
 
@@ -22,6 +22,6 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+## Scope
+In this application we have two textarea fields (input and other is for output) and one button. In input textarea the  can be span across multiple rows.
+On click of button it will reverse the text as you entered in input textarea and reverse text will be shown in output textarea.
