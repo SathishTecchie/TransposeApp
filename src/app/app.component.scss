@@ -1,0 +1,32 @@
+.field-section {
+    width: 50%;
+    margin: 0 auto;
+    position: relative;
+    .field-container {
+        width: 100%;
+        text-align: center;
+        padding-bottom: 20px;
+        padding-top: 20px;
+        label {
+            width: 20%;
+            padding-right: 40px;
+            text-align: left;
+            text-align: left;
+            display: inline-block;
+        }
+        textarea {
+            width: 40%;
+            height: 65px;
+            padding: 10px;
+            resize: none;
+        }
+    }
+    .reverse-button {
+        position: absolute;
+        left: 55%;
+        width: 15%;
+        height: 30px;
+        border-radius: 4px;
+        text-transform: uppercase;
+    }
+}
